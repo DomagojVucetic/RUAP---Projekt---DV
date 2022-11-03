@@ -1,1 +1,1 @@
-print("Pozdrav iz aplikacije od Domagoj Vučetić 0165079555")
+print("Pozdrav iz aplikacije od Domagoj Vučetić 0165079555 Za drugi commit")
